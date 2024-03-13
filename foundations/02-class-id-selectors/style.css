@@ -1,0 +1,18 @@
+.salmon {
+    color: black;
+    background-color: rgb(244, 155, 155);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.big {
+    font-size: 24px;
+}
+#blue {
+    color: rgb(red, green, rgb(0, 0, 255));
+    font-size: 36px;
+}
+#green {
+    color: black;
+    background-color: rgb(red, rgb(137, 255, 137), blue);
+    font-size: 24px;
+    font-weight: bold;
+}
